@@ -1,0 +1,18 @@
+global-styling:
+  version: VERSION
+  js: 
+    js/popper.min.js: { weight: -49 }
+    js/bootstrap.min.js: { weight: -48 }
+    js/barrio.js: {}
+    js/custom.js: {}
+    js/slick.js: {}
+    js/slick.min.js: {}
+  css:
+    component:
+      css/style.css: {}
+      css/override_bootstrap.css: {}
+      css/slick.css: {}
+      css/slick-theme.css: {}
+  dependencies:
+    - core/jquery
+    - core/drupal

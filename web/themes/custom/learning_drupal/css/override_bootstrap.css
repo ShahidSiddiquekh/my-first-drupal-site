@@ -1,0 +1,4 @@
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: black, var(--bs-bg-opacity) !important;
+  }
