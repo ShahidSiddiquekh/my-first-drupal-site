@@ -43,6 +43,7 @@
       });
       });
     }
+  
   };
-
+//Jquery 
 })(jQuery, Drupal);
